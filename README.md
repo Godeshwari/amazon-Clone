@@ -66,6 +66,9 @@ Amazon-Clone/
 
 • Beginners improving HTML & CSS skills
 
+Live Demo 👇
+https://amazon-clone-nu-virid.vercel.app/
+
 📸 Screenshots
 
 <img width="1344" height="599" alt="1" src="https://github.com/user-attachments/assets/6ca809c2-d757-40f6-80a1-3696b957bc07" />
